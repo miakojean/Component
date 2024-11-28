@@ -12,6 +12,11 @@ a {
     text-decoration: none;
 }
 
+h1{
+    font-family: 'Inter', sans-serif;
+    
+}
+
 button {
     border: none;
     background: none;
