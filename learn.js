@@ -5,4 +5,17 @@ const etudiant = {
     'age' : 26
 }
 
-console.log(etudiant.nom)
+const article = [
+    {
+    'Nom' : 'aubergines',
+    'Prix' : 800,
+    'Quantité' : 'Kg'
+    },
+    {
+    'Nom' : 'Gombos',
+    'Prix' : 500,
+    'Quantité' : 'Kg'
+    }
+]
+
+console.log(article[0].Nom)
